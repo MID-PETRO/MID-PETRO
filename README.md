@@ -1,11 +1,11 @@
-<h1 align="center">Hi , I'm Luis Espinoza <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hola Bienvenido , Mi nombre es Luis Espinoza <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <h3 align="center">Diseño y Desarrollo Web FullStack</h3>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Technician;Full+Stack+Web+Developer;Web%20Designer;Building%20Modern%20and%20Robust%20Applications;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Tecnico+en+Computacion+e+Informatica;Desarrollador+Web+Full+Stack;Diseñador%20Web;Enfocado%20en%20Logica%20y%20Diseño;Estoy%20Siempre%20Aprendiendo%20Cosas%20Nuevas&center=true&width=500&height=50"></a>
 </p>
 <hr/>
 
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Acerca de mi
 <p align="center">Desarrollador web apasionado por el diseño y la 
 programación con habilidades analíticas excepcionales.
 Siempre dispuesto a trabajar bajo presión para alcanzar 
@@ -13,7 +13,7 @@ objetivos y metas, priorizando tareas urgentes e importantes
 para lograr resultados de calidad y eficiencia. Comprometido 
 con el aprendizaje continuo y la superación personal.</p>
 
-<h3>💻My Actividad</h3>
+<h3>💻Mi Actividad</h3>
 
 <p>Bienvenido gracias por su interes en mi para los fines concernientes a su organizacion espero su estadia aqui sea de su agrado :</p>
 
