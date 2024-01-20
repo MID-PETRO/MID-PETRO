@@ -4,6 +4,8 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Technician;Full+Stack+Web+Developer;Web%20Designer;Building%20Modern%20and%20Robust%20Applications;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 <hr/>
+
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 <p align="center">Desarrollador web apasionado por el diseño y la 
 programación con habilidades analíticas excepcionales.
 Siempre dispuesto a trabajar bajo presión para alcanzar 
@@ -11,15 +13,17 @@ objetivos y metas, priorizando tareas urgentes e importantes
 para lograr resultados de calidad y eficiencia. Comprometido 
 con el aprendizaje continuo y la superación personal.</p>
 
-<h3>Bienvenido gracias por su interes en mi para los fines concernientes a su organizacion espero su estadia aqui sea de su agrado :</h3>
+<h3>💻My Actividad</h3>
 
-<h3>Mis proyectos personales</h3>
+<p>Bienvenido gracias por su interes en mi para los fines concernientes a su organizacion espero su estadia aqui sea de su agrado :</p>
+
+<h4>Mis proyectos personales</h4>
 
 Con el fin de mantener la originalidad de mis creaciones he preferido mantener mis proyectos en privado sin embargo puede apreciar el deploy de los mismos en mi cuenta personal de [netlify](https://app.netlify.com/teams/ee-espinozaticse/sites).
 
 - 🌐 Aplicacion pokemon con multijuegos [Diverti Pokemon](https://app-pokemon-entertainment.netlify.app/)
 
-<h3>Mis proyectos colaborativos</h3>
+<h4>Mis proyectos colaborativos</h4>
 
 - 🌐 Tienda Especializada en articulos para bebes [Babyology Market](https://www.babyology.com.pe/)
 
@@ -70,7 +74,7 @@ Con el fin de mantener la originalidad de mis creaciones he preferido mantener m
   </a>
 </p>
 
-### 👉 Backend & ORM
+### 👉 Backend Development & ORM
 
 <p align="center">
   <a href="https://skillicons.dev">
