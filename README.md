@@ -14,7 +14,8 @@ con el aprendizaje continuo y la superación personal.</p>
 <h3>Bienvenido gracias por su interes en mi para los fines concernientes a su organizacion espero su estadia aqui sea de su agrado :</h3>
 
 <h3>Mis proyectos personales</h3>
-<p>Afin de mantener la originalidad de mis creaciones estos proyectos se encuentran en privado sin embargo puede apreciar el deploy de los mismos en mi cuenta personal de netlify.</p>
+
+Con el fin de mantener la originalidad de mis creaciones he preferido mantener mis proyectos en privado sin embargo puede apreciar el deploy de los mismos en mi cuenta personal de [netlify](https://app.netlify.com/teams/ee-espinozaticse/sites).
 
 - 🌐 Aplicacion pokemon con multijuegos [Diverti Pokemon](https://app-pokemon-entertainment.netlify.app/)
 
@@ -34,9 +35,6 @@ con el aprendizaje continuo y la superación personal.</p>
 
 - 📫 Como contactarme **asesores.virtuspro@gmail.com**
 - 📲 Whatsapp [Link directo](https://wa.link/mj3aqe)
-
-
-<h3>My Skills</h3>
 
 ## 🛠️ My Skills
 
