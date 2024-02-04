@@ -21,7 +21,8 @@ con el aprendizaje continuo y la superación personal.</p>
 
 Con el fin de mantener la originalidad de mis creaciones he preferido mantener mis proyectos en privado sin embargo puede apreciar el deploy de los mismos en mi cuenta personal de [netlify](https://app.netlify.com/teams/ee-espinozaticse/sites).
 
-- 🌐 Aplicacion pokemon con multijuegos [Diverti Pokemon](https://app-pokemon-entertainment.netlify.app/)
+- 🌐 Aplicacion pokemon con multijuegos (Frontend) [Diverti Pokemon](https://app-pokemon-entertainment.netlify.app/)
+- 🌐 Aplicacion pokemon con multijuegos (Frontend-Backend-Base de datos PostgreSQL) [Diverti Pokemon](https://render-app-pokemon.onrender.com/)
 
 <h4>Mis proyectos colaborativos</h4>
 
