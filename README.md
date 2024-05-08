@@ -23,6 +23,7 @@ Con el fin de mantener la originalidad de mis creaciones he preferido mantener m
 
 - 🌐 Aplicacion de multijuegos con tematica pokemon (Frontend) [Diverti Pokemon](https://app-pokemon-entertainment.netlify.app/)
 - 🌐 Aplicacion de multijuegos con tematica pokemon (Frontend-Backend-Base de datos PostgreSQL) [Diverti Pokemon](https://render-app-pokemon.onrender.com/)
+- 🌐 Clon de ChatGPT (chatbot - chat with PDF - web search) [ChatBot-OPENAI](https://chat-bot-openai-hiz1.onrender.com/)
 
 <h4>Mis proyectos colaborativos</h4>
 
