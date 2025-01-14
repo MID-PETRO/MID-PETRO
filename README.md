@@ -49,7 +49,7 @@ Con el fin de mantener la originalidad de mis creaciones he preferido mantener m
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,py,java,c,php,wordpress,elementor" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,py,java,c,php,wordpress" />
   </a>
 </p>
 
