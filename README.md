@@ -106,6 +106,6 @@ Con el fin de mantener la originalidad de mis creaciones he preferido mantener m
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=jest,azure,aws,netlify,heroku" />
+    <img src="https://skillicons.dev/icons?i=jest,azure,aws,netlify,heroku,firebase,gitlab" />
   </a>
 </p>
