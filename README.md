@@ -19,9 +19,10 @@ con el aprendizaje continuo y la superación personal.</p>
 
 <h4>Mis proyectos personales</h4>
 
-Con el fin de mantener la originalidad de mis creaciones he preferido mantener mis proyectos en privado sin embargo puede apreciar el deploy de los mismos en mi cuenta personal de [netlify](https://app.netlify.com/teams/ee-espinozaticse/sites).
+Con el fin de mantener la originalidad de mis creaciones he preferido mantener mis proyectos en privado sin embargo puede apreciar el deploy de los mismos en multiples plataformas.
 
-- 🌐 Aplicacion de multijuegos con tematica pokemon (Frontend) [Diverti Pokemon](https://app-pokemon-entertainment.netlify.app/)
+- 🌐 Catalogo de Productos utilizando la REST API DummyJSON (React JS + GitLab) [Product-Catalog](https://first-project-fe12e3.gitlab.io/)
+- 🌐 Aplicacion de multijuegos con tematica pokemon (Frontend/Firebase BaaS) [Diverti Pokemon](https://fir-pokemon-386c1.firebaseapp.com/)
 - 🌐 Aplicacion de multijuegos con tematica pokemon (Frontend-Backend-Base de datos PostgreSQL) [Diverti Pokemon](https://render-app-pokemon.onrender.com/)
 - 🌐 Clon de ChatGPT (chatbot - chat with PDF - web search) [ChatBot-OPENAI](https://chat-bot-openai-hiz1.onrender.com/savitar/)
 - 🌐 Aplicacion para registrar y visualizar asistentes a un evento (Vue JS + Laravel) [Guest-App](https://user-interface-vue.onrender.com/)
