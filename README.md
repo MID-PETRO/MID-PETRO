@@ -43,7 +43,7 @@ Con el fin de mantener la originalidad de mis creaciones he preferido mantener m
 <h3>Contactos:</h3>
 
 - 📫 Como contactarme **asesores.virtuspro@gmail.com**
-- 📲 Whatsapp [Link directo](https://wa.link/mj3aqe)
+- 📲 Whatsapp [Link directo](https://wa.link/8tt89x)
 
 ## 🛠️ My Skills
 
