@@ -51,7 +51,7 @@ Con el fin de mantener la originalidad de mis creaciones he preferido mantener m
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,py,java,c,php,wordpress" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,py,java,php" />
   </a>
 </p>
 
@@ -75,7 +75,7 @@ Con el fin de mantener la originalidad de mis creaciones he preferido mantener m
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,redux,ts,angular" />
+    <img src="https://skillicons.dev/icons?i=react,redux,ts" />
   </a>
 </p>
 
@@ -83,7 +83,7 @@ Con el fin de mantener la originalidad de mis creaciones he preferido mantener m
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,laravel,sequelize" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,sequelize" />
   </a>
 </p>
 
@@ -99,7 +99,7 @@ Con el fin de mantener la originalidad de mis creaciones he preferido mantener m
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,xd,ps,ai" />
+    <img src="https://skillicons.dev/icons?i=figma" />
   </a>
 </p>
 
@@ -107,6 +107,6 @@ Con el fin de mantener la originalidad de mis creaciones he preferido mantener m
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=jest,azure,aws,netlify,heroku,firebase,gitlab" />
+    <img src="https://skillicons.dev/icons?i=jest,netlify,firebase,gitlab" />
   </a>
 </p>
