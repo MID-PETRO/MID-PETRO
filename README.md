@@ -6,43 +6,42 @@
 <hr/>
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Acerca de mi
-<p align="center">Desarrollador web apasionado por el diseño y la 
-programación con habilidades analíticas excepcionales.
-Siempre dispuesto a trabajar bajo presión para alcanzar 
-objetivos y metas, priorizando tareas urgentes e importantes 
-para lograr resultados de calidad y eficiencia. Comprometido 
-con el aprendizaje continuo y la superación personal.</p>
+<p align="center">Web developer passionate about design and programming with exceptional analytical skills.
+Always willing to work under pressure to achieve
+objectives and goals, prioritizing urgent and important tasks
+to achieve quality and efficiency results. Committed
+to continuous learning and personal improvement.</p>
 
-<h3>💻Mi Actividad</h3>
+<h3>💻My Activity</h3>
 
-<p>Bienvenido gracias por su interes en mi para los fines concernientes a su organizacion espero su estadia aqui sea de su agrado :</p>
+<p>Welcome, thank you for your interest in me for the purposes concerning your organization. I hope you enjoy your stay here.</p>
 
-<h4>Mis proyectos personales</h4>
+<h4>My Personal Projects</h4>
 
-Con el fin de mantener la originalidad de mis creaciones he preferido mantener mis proyectos en privado sin embargo puede apreciar el deploy de los mismos en multiples plataformas.
+In order to maintain the originality of my creations I have preferred to keep my projects private, however you can appreciate the deployment of them on multiple platforms.
 
-- 🌐 Catalogo de Productos utilizando la REST API DummyJSON (React JS + GitLab) [Product-Catalog](https://first-project-fe12e3.gitlab.io/)
-- 🌐 Aplicacion de multijuegos con tematica pokemon (Frontend/Firebase BaaS) [Diverti Pokemon](https://fir-pokemon-386c1.firebaseapp.com/)
-- 🌐 Aplicacion de multijuegos con tematica pokemon (Frontend-Backend-Base de datos PostgreSQL) [Diverti Pokemon](https://render-app-pokemon.onrender.com/)
-- 🌐 Clon de ChatGPT (chatbot - chat with PDF - web search) [ChatBot-OPENAI](https://chat-bot-openai-hiz1.onrender.com/savitar/)
-- 🌐 Aplicacion para registrar y visualizar asistentes a un evento (Vue JS + Laravel) [Guest-App](https://user-interface-vue.onrender.com/)
-- 🌐 Aplicacion de chat en tiempo real (React JS + Zustand + Firebase) [Chat-App](https://fir-chat-b289d.firebaseapp.com/)
+- 🌐 Product Catalog using the REST API DummyJSON (React JS + GitLab) [Product-Catalog](https://first-project-fe12e3.gitlab.io/)
+- 🌐 Pokemon Themed Multigame App (Frontend/Firebase BaaS) [Funny App](https://fir-pokemon-386c1.firebaseapp.com/)
+- 🌐 Pokemon Themed Multigame App (Frontend-Backend-PostgreSQL DataBase) [Funny App](https://render-app-pokemon.onrender.com/)
+- 🌐 ChatGPT Clone (chatbot - chat with PDF - web search) [ChatBot-OPENAI](https://chat-bot-openai-hiz1.onrender.com/savitar/)
+- 🌐 Application to register and view attendees at an event (Vue JS + Laravel) [Guest-App](https://user-interface-vue.onrender.com/)
+- 🌐 Real Time Chat App (React JS + Zustand + Firebase) [Chat-App](https://fir-chat-b289d.firebaseapp.com/)
 
-<h4>Mis proyectos colaborativos</h4>
+<h4>My collaborative projects</h4>
 
-- 🌐 Tienda Especializada en articulos para bebes [Babyology Market](https://www.babyology.com.pe/)
+- 🌐 Specialized Store in Baby Items [Babyology Market](https://www.babyology.com.pe/)
 
-- 🌐 Plataforma de Gestion Comercial Agropecuaria [AgroExo](https://agroexo.com/)
+- 🌐 Agricultural Business Management Platform [AgroExo](https://agroexo.com/)
 
-- 🌐 Landing Page para Empresa Peruana en Economia Circular [Greendeal](https://greendeal.pe/)
+- 🌐 Landing Page for Peruvian Company in Circular Economy [Greendeal](https://greendeal.pe/)
 
-- 🌐 Plataforma con modulos de usuario y panel de administracion [MonkeyFit](https://www.monkeyfitpass.com/)
+- 🌐 Platform with User Modules and Administration Panel [MonkeyFit](https://www.monkeyfitpass.com/)
 
-- 🌐 Aula Virtual en Moodle [Educational Training Center (CECA-JJSM)](https://campusvirtual.cecajjsm.com/)
+- 🌐 virtual classroom in moodle [Educational Training Center (CECA-JJSM)](https://campusvirtual.cecajjsm.com/)
 
-<h3>Contactos:</h3>
+<h3>Contacts:</h3>
 
-- 📫 Como contactarme **asesores.virtuspro@gmail.com**
+- 📫 How to contact me **asesores.virtuspro@gmail.com**
 - 📲 Whatsapp [Link directo](https://wa.link/8tt89x)
 
 ## 🛠️ My Skills
