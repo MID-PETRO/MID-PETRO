@@ -1,5 +1,5 @@
 <h1 align="center">Hello, Welcome , My name's Luis Espinoza <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<h3 align="center">Diseño y Desarrollo Web FullStack</h3>
+<h3 align="center">Design and Full Stack Web Development</h3>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Tecnico+en+Computacion+e+Informatica;Desarrollador+Web+Full+Stack;Diseñador%20Web;Enfocado%20en%20Logica%20y%20Diseño;Estoy%20Siempre%20Aprendiendo%20Cosas%20Nuevas&center=true&width=500&height=50"></a>
 </p>
