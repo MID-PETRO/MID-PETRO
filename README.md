@@ -21,11 +21,12 @@ to continuous learning and personal improvement.</p>
 In order to maintain the originality of my creations I have preferred to keep my projects private, however you can appreciate the deployment of them on multiple platforms.
 
 - 🌐 Product Catalog using the REST API DummyJSON (React JS + GitLab) [Product-Catalog](https://first-project-fe12e3.gitlab.io/)
+- 🌐 Sumaq Food - Delivery App (React-Shadcn-Tailwind-TypeScript+NodeJs-JWT-PostgreSQL DataBase) [Delivery App](https://sumaq-food.onrender.com/)
+- 🌐 Landing Page - RIMAC SEGUROS (React-SASS) [Responsive-Landing-Page](https://landing-page-responsive.onrender.com/)
 - 🌐 Pokemon Themed Multigame App (Frontend/Firebase BaaS) [Funny App](https://fir-pokemon-386c1.firebaseapp.com/)
-- 🌐 Pokemon Themed Multigame App (Frontend-Backend-PostgreSQL DataBase) [Funny App](https://render-app-pokemon.onrender.com/)
-- 🌐 ChatGPT Clone (chatbot - chat with PDF - web search) [ChatBot-OPENAI](https://chat-bot-openai-hiz1.onrender.com/savitar/)
-- 🌐 Application to register and view attendees at an event (Vue JS + Laravel) [Guest-App](https://user-interface-vue.onrender.com/)
 - 🌐 Real Time Chat App (React JS + Zustand + Firebase) [Chat-App](https://fir-chat-b289d.firebaseapp.com/)
+- 🌐 Application to register and view attendees at an event (Vue JS + Laravel) [Guest-App](https://user-interface-vue.onrender.com/)
+- 🌐 ChatGPT Clone (chatbot - chat with PDF - web search) [ChatBot-OPENAI](https://chat-bot-openai-hiz1.onrender.com/savitar/)
 
 <h4>My collaborative projects</h4>
 
