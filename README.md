@@ -67,7 +67,7 @@ In order to maintain the originality of my creations I have preferred to keep my
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,sass,shadcn" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,sass" />
   </a>
 </p>
 
