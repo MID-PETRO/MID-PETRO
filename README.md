@@ -67,7 +67,7 @@ In order to maintain the originality of my creations I have preferred to keep my
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,sass" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,sass,shadcn" />
   </a>
 </p>
 
@@ -83,7 +83,7 @@ In order to maintain the originality of my creations I have preferred to keep my
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,sequelize" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,nest,sequelize,mongoose,typeorm" />
   </a>
 </p>
 
