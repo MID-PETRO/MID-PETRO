@@ -26,6 +26,7 @@ In order to maintain the originality of my creations I have preferred to keep my
 - 🌐 Pokemon Themed Multigame App (Frontend/Firebase BaaS) [Funny App](https://fir-pokemon-386c1.firebaseapp.com/)
 - 🌐 Real Time Chat App (React JS + Zustand + Firebase) [Chat-App](https://fir-chat-b289d.firebaseapp.com/)
 - 🌐 Application to register and view attendees at an event (Vue JS + Laravel) [Guest-App](https://user-interface-vue.onrender.com/)
+- 🌐 Real Time Forum App (React TS + SupaBase) [Forum-App](https://social-media-nu-weld.vercel.app/)
 - 🌐 ChatGPT Clone (chatbot - chat with PDF - web search) [ChatBot-OPENAI](https://chat-bot-openai-hiz1.onrender.com/savitar/)
 
 <h4>My collaborative projects</h4>
@@ -51,7 +52,7 @@ In order to maintain the originality of my creations I have preferred to keep my
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,py,java,php" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,java,php" />
   </a>
 </p>
 
@@ -83,7 +84,7 @@ In order to maintain the originality of my creations I have preferred to keep my
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,nest,sequelize,mongoose,typeorm" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,nest,sequelize,mongoose,typeorm,serverles" />
   </a>
 </p>
 
@@ -107,6 +108,6 @@ In order to maintain the originality of my creations I have preferred to keep my
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=jest,netlify,firebase,gitlab" />
+    <img src="https://skillicons.dev/icons?i=jest,netlify,firebase,supabase,gitlab,aws" />
   </a>
 </p>
