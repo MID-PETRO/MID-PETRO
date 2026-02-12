@@ -20,7 +20,8 @@ to continuous learning and personal improvement.</p>
 
 In order to maintain the originality of my creations I have preferred to keep my projects private, however you can appreciate the deployment of them on multiple platforms.
 
-- 🌐 Product Catalog using the REST API DummyJSON (React JS + GitLab) [Product-Catalog](https://first-project-fe12e3.gitlab.io/)
+- 🌐 Delivery Management System - Real Time Tracking (NextJS + NestJS + WebSocket API) [Delivery-Management-System](https://first-project-fe12e3.gitlab.io/)
+- 🌐 Product Catalog using the REST API DummyJSON (React TS + GitLab) [Product-Catalog](https://first-project-fe12e3.gitlab.io/)
 - 🌐 Sumaq Food - Delivery App (React-Shadcn-Tailwind-TypeScript+NodeJs-JWT-PostgreSQL DataBase) [Delivery App](https://sumaq-food.onrender.com/)
 - 🌐 Landing Page - RIMAC SEGUROS (React-SASS) [Responsive-Landing-Page](https://landing-page-responsive.onrender.com/)
 - 🌐 Pokemon Themed Multigame App (Frontend/Firebase BaaS) [Funny App](https://fir-pokemon-386c1.firebaseapp.com/)
