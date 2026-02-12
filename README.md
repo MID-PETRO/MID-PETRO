@@ -32,6 +32,8 @@ In order to maintain the originality of my creations I have preferred to keep my
 
 <h4>My collaborative projects</h4>
 
+- 🌐 Pia System in microservices architecture with DTOs and Kafka for asynchronous communication [Babyology Market](https://platanitos.com/pe/iniciar-sesion?redirect=pia)
+
 - 🌐 Specialized Store in Baby Items [Babyology Market](https://www.babyology.com.pe/)
 
 - 🌐 Agricultural Business Management Platform [AgroExo](https://agroexo.com/)
